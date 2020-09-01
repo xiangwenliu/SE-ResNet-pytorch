@@ -2,10 +2,10 @@
 This respository support [18, 34, 50, 101, 152] layers SE-Resnet for classfication on customer data.
 
 ##Model structure
-###The Squeeze-and-Excitation block 
+### The Squeeze-and-Excitation block 
 ![alt text](assets/se-block.jpg)
 
-###The SE-Resnet block 
+### The SE-Resnet block 
 ![a](assets/seresnet-block.jpg)
 
 ## Customer dataset
